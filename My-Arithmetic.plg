@@ -6,13 +6,21 @@
 --------------------Configuration: My-Arithmetic - Win32 Debug--------------------
 </h3>
 <h3>Command Lines</h3>
-Creating temporary file "C:\Users\admin\AppData\Local\Temp\RSPF9B8.tmp" with contents
+Creating temporary file "C:\Users\admin\AppData\Local\Temp\RSP5EBE.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/My-Arithmetic.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"E:\±‡“Î∆˜\Microsoft Visual Studio\MyProjects\My-Arithmetic\My-Arithmetic.c"
+]
+Creating command line "cl.exe @C:\Users\admin\AppData\Local\Temp\RSP5EBE.tmp" 
+Creating temporary file "C:\Users\admin\AppData\Local\Temp\RSP5EBF.tmp" with contents
 [
 kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/My-Arithmetic.pdb" /debug /machine:I386 /out:"Debug/My-Arithmetic.exe" /pdbtype:sept 
 ".\Debug\My-Arithmetic.obj"
 ]
-Creating command line "link.exe @C:\Users\admin\AppData\Local\Temp\RSPF9B8.tmp"
+Creating command line "link.exe @C:\Users\admin\AppData\Local\Temp\RSP5EBF.tmp"
 <h3>Output Window</h3>
+Compiling...
+My-Arithmetic.c
 Linking...
 
 
